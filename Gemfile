@@ -9,6 +9,8 @@ gem 'sinatra-activerecord'
 gem 'rake'
 gem 'pg'
 
+gem 'ruby-hackernews'
+
 gem 'rspec'
 gem 'factory_girl'
 gem 'database_cleaner'
